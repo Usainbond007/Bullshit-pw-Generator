@@ -5,14 +5,14 @@ It allows users to generate strong random passwords with a clean UI and instant 
 
 ---
 
-##  Live Demo  
+##   🚀 Live Demo  
 Click here to try it instantly:
 
  **https://usainbond007.github.io/Bullshit-pw-Generator/**
 
 ---
 
-##  Features
+## ✨  Features
 - Generates strong random passwords  
 - Ensures **no two identical characters appear consecutively**  
 - Guarantees **at least one uppercase, lowercase, number, and symbol**  
